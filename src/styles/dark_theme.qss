@@ -1,0 +1,4 @@
+/* 深色主题样式表（简化） */
+QMainWindow { background-color: #1E2A3A; color: #FFFFFF; }
+QWidget { background-color: #1E2A3A; color: #FFFFFF; }
+QPushButton { background-color: #00A8FF; color: #FFFFFF; }
